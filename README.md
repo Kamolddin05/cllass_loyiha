@@ -1,1 +1,1 @@
-# cllass_loyiha
+# class_loyiha
